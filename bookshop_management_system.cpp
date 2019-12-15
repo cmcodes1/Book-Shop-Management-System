@@ -47,6 +47,7 @@ class books
  price=0;
  dis=0;
  }
+	
  void modifydata(int n1,char snm[15],char pubnm[15],int q);
  //*****************************************************************************
 void showdatamulti()
